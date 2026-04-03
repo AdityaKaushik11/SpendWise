@@ -4,7 +4,6 @@
 
 ### AI-Powered Expense Tracker with Smart Insights, Beautiful Analytics, and Budget Control
 
-<img src="./assets/dashboard.png" alt="SpendWise Preview" width="100%" />
 
 <p align="center">
   <a href="https://spend-wise-2hgzmsrti-adityakaushik11s-projects.vercel.app">
